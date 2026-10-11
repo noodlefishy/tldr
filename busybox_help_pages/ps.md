@@ -1,0 +1,12 @@
+```
+leuw@woef-woef:~$ps --help
+BusyBox v1.37.0 (2026-01-10 15:38:28 UTC) multi-call binary.
+
+Usage: ps [-o COL1,COL2=HEADER] [-T]
+
+Show list of processes
+
+	-o COL1,COL2=HEADER	Select columns for display
+	-T			Show threads
+leuw@woef-woef:~$ 
+```

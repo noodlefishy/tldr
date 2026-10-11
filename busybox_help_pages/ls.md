@@ -1,0 +1,38 @@
+```
+leuw@woef-woef:~$ls --help
+BusyBox v1.37.0 (2026-01-10 15:38:28 UTC) multi-call binary.
+
+Usage: ls [-1AaCxdLHRFplinshrSXvctu] [-w WIDTH] [FILE]...
+
+List directory contents
+
+	-1	One column output
+	-a	Include names starting with .
+	-A	Like -a, but exclude . and ..
+	-x	List by lines
+	-d	List directory names, not contents
+	-L	Follow symlinks
+	-H	Follow symlinks on command line
+	-R	Recurse
+	-p	Append / to directory names
+	-F	Append indicator (one of */=@|) to names
+	-l	Long format
+	-i	List inode numbers
+	-n	List numeric UIDs and GIDs instead of names
+	-s	List allocated blocks
+	-lc	List ctime
+	-lu	List atime
+	--full-time	List full date/time
+	-h	Human readable sizes (1K 243M 2G)
+	--group-directories-first
+	-S	Sort by size
+	-X	Sort by extension
+	-v	Sort by version
+	-t	Sort by mtime
+	-tc	Sort by ctime
+	-tu	Sort by atime
+	-r	Reverse sort order
+	-w N	Format N columns wide
+	--color[={always,never,auto}]
+leuw@woef-woef:~$ 
+```

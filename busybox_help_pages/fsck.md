@@ -1,0 +1,17 @@
+```
+leuw@woef-woef:~$fsck --help
+BusyBox v1.37.0 (2026-01-10 15:38:28 UTC) multi-call binary.
+
+Usage: fsck [-ANPRTV] [-t FSTYPE] [FS_OPTS] [BLOCKDEV]...
+
+Check and repair filesystems
+
+	-A	Walk /etc/fstab and check all filesystems
+	-N	Don't execute, just show what would be done
+	-P	With -A, check filesystems in parallel
+	-R	With -A, skip the root filesystem
+	-T	Don't show title on startup
+	-V	Verbose
+	-t TYPE	List of filesystem types to check
+leuw@woef-woef:~$ 
+```

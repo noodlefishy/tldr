@@ -1,0 +1,21 @@
+```
+leuw@woef-woef:~$ping6 --help
+BusyBox v1.37.0 (2026-01-10 15:38:28 UTC) multi-call binary.
+
+Usage: ping6 [OPTIONS] HOST
+
+Send ICMP ECHO_REQUESTs to HOST
+
+	-c CNT		Send only CNT pings
+	-s SIZE		Send SIZE data bytes in packets (default 56)
+	-i SECS		Interval
+	-A		Ping as soon as reply is received
+	-I IFACE/IP	Source interface or IP address
+	-W SEC		Seconds to wait for the first response (default 10)
+			(after all -c CNT packets are sent)
+	-w SEC		Seconds until ping exits (default:infinite)
+			(can exit earlier with -c CNT)
+	-q		Quiet, only display output at start/finish
+	-p HEXBYTE	Payload pattern
+leuw@woef-woef:~$ 
+```

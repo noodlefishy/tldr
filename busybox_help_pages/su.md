@@ -1,0 +1,14 @@
+```
+leuw@woef-woef:~$su --help
+BusyBox v1.37.0 (2026-01-10 15:38:28 UTC) multi-call binary.
+
+Usage: su [-lmp] [-s SH] [-] [USER [FILE ARGS | -c 'CMD' [ARG0 ARGS]]]
+
+Run shell under USER (by default, root)
+
+	-,-l	Clear environment, go to home dir, run shell as login shell
+	-p,-m	Do not set new $HOME, $SHELL, $USER, $LOGNAME
+	-c CMD	Command to pass to 'sh -c'
+	-s SH	Shell to use instead of user's default
+leuw@woef-woef:~$ 
+```

@@ -1,0 +1,24 @@
+```
+leuw@woef-woef:~$kmod --help
+kmod - Manage kernel modules: list, load, unload, etc
+Usage:
+	kmod [options] command [command_options]
+
+Options:
+	-V, --version     show version
+	-h, --help        show this help
+
+Commands:
+  help         show help message
+  list         list currently loaded modules
+  static-nodes output the static-node information installed with the currently running kernel
+
+kmod also handles gracefully if called from following symlinks:
+  lsmod        compat lsmod command
+  rmmod        compat rmmod command
+  insmod       compat insmod command
+  modinfo      compat modinfo command
+  modprobe     compat modprobe command
+  depmod       compat depmod command
+leuw@woef-woef:~$ 
+```

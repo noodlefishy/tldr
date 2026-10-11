@@ -1,0 +1,19 @@
+```
+leuw@woef-woef:~$df --help
+BusyBox v1.37.0 (2026-01-10 15:38:28 UTC) multi-call binary.
+
+Usage: df [-PkmhTai] [-B SIZE] [-t TYPE] [FILESYSTEM]...
+
+Print filesystem usage statistics
+
+	-P	POSIX output format
+	-k	1024-byte blocks (default)
+	-m	1M-byte blocks
+	-h	Human readable (e.g. 1K 243M 2G)
+	-T	Print filesystem type
+	-t TYPE	Print only mounts of this type
+	-a	Show all filesystems
+	-i	Inodes
+	-B SIZE	Blocksize
+leuw@woef-woef:~$ 
+```
