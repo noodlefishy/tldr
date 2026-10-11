@@ -1,7 +1,0 @@
-# minio-client
-
-> Cette commande est un alias de `mc` (client MinIO).
-
-- Affiche la documentation de la commande originale :
-
-`tldr mc.cli`

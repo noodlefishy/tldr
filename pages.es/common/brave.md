@@ -1,8 +1,0 @@
-# brave
-
-> Este comando es un alias de `chromium`.
-> Más información: <https://support.brave.app/hc/articles/360044860011-How-Do-I-Use-Command-Line-Flags-in-Brave>.
-
-- Vea la documentación del comando original:
-
-`tldr chromium`

@@ -1,7 +1,0 @@
-# gcp
-
-> Este comando es un alias de `cp`.
-
-- Vea la documentación del comando original:
-
-`tldr cp`
