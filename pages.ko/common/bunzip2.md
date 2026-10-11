@@ -1,7 +1,0 @@
-# bunzip2
-
-> 이 명령은 `bzip2 --decompress`의 별칭입니다.
-
-- 원래 명령의 문서 보기:
-
-`tldr bzip2`

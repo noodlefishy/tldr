@@ -1,7 +1,0 @@
-# montage
-
-> यह आदेश `magick montage` का उपनाम है।
-
-- मूल आदेश के लिए दस्तावेज़ देखें:
-
-`tldr magick montage`

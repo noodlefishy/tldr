@@ -1,7 +1,0 @@
-# impacket-GetADUsers
-
-> यो आदेश `GetADUsers.py` को उपनाम हो।
-
-- मौलिक आदेशको लागि कागजात हेर्नुहोस्:
-
-`tldr GetADUsers.py`

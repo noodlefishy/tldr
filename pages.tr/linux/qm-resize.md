@@ -1,7 +1,0 @@
-# qm resize
-
-> Bu komut `qm disk resize` için bir takma addır.
-
-- Asıl komutun dokümantasyonunu görüntüleyin:
-
-`tldr qm disk`

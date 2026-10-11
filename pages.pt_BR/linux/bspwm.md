@@ -1,9 +1,0 @@
-# bspwm
-
-> Um gerenciador de janelas em mosaico baseado em um particionamento de espaço binário.
-> Veja também: `bspc`.
-> Mais informações: <https://github.com/baskerville/bspwm/blob/master/doc/bspwm.1.asciidoc>.
-
-- Inicia `bspwm` (um gerenciador de janelas pré existente não deve estar aberto quando esse comando for executado):
-
-`bspwm -c {{caminho/para/configuracao}}`

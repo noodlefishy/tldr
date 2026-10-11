@@ -1,7 +1,0 @@
-# pw-midirecord
-
-> यो आदेश `pw-cat --record --midi` को उपनाम हो।
-
-- मौलिक आदेशको लागि कागजात हेर्नुहोस्:
-
-`tldr pw-cat`

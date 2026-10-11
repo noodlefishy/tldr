@@ -1,7 +1,0 @@
-# pacremove
-
-> এই কমান্ডটি `pactrans --remove` - এর একটি উপনাম।
-
-- মূল কমান্ডের ডকুমেন্টেশন দেখুন:
-
-`tldr pactrans`

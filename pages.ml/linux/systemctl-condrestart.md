@@ -1,7 +1,0 @@
-# systemctl condrestart
-
-> ഈ കമാൻഡ് `systemctl try-restart` എന്നതിന്റെ അപരനാമമാണ്.
-
-- യഥാർത്ഥ കമാൻഡിനായി ഡോക്യുമെന്റേഷൻ കാണുക:
-
-`tldr systemctl try-restart`

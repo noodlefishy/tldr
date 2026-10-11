@@ -1,7 +1,0 @@
-# docker commit
-
-> ഈ കമാൻഡ് `docker container commit` എന്നതിന്റെ അപരനാമമാണ്.
-
-- യഥാർത്ഥ കമാൻഡിനായി ഡോക്യുമെന്റേഷൻ കാണുക:
-
-`tldr docker container commit`

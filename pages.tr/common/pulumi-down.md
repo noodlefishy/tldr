@@ -1,7 +1,0 @@
-# pulumi down
-
-> Bu komut `pulumi destroy` için bir takma addır.
-
-- Asıl komutun dokümantasyonunu görüntüleyin:
-
-`tldr pulumi destroy`

@@ -1,7 +1,0 @@
-# minetestserver
-
-> यो आदेश `luanti --server` को उपनाम हो।
-
-- मौलिक आदेशको लागि कागजात हेर्नुहोस्:
-
-`tldr luanti`

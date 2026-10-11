@@ -1,7 +1,0 @@
-# lrzuntar
-
-> यह आदेश `lrztar --decompress` का उपनाम है।
-
-- मूल आदेश के लिए दस्तावेज़ देखें:
-
-`tldr lrztar`

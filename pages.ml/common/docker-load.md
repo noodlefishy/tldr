@@ -1,7 +1,0 @@
-# docker load
-
-> ഈ കമാൻഡ് `docker image load` എന്നതിന്റെ അപരനാമമാണ്.
-
-- യഥാർത്ഥ കമാൻഡിനായി ഡോക്യുമെന്റേഷൻ കാണുക:
-
-`tldr docker image load`

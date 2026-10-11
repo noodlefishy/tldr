@@ -1,7 +1,0 @@
-# ventoy
-
-> Det här kommandot är ett alias för `Ventoy2Disk`.
-
-- Se dokumentationen för originalkommandot:
-
-`tldr ventoy2disk`

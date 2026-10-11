@@ -1,7 +1,0 @@
-# docker container remove
-
-> এই কমান্ডটি `docker container rm` - এর একটি উপনাম।
-
-- মূল কমান্ডের ডকুমেন্টেশন দেখুন:
-
-`tldr docker container rm`

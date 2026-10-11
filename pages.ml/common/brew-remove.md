@@ -1,7 +1,0 @@
-# brew remove
-
-> ഈ കമാൻഡ് `brew uninstall` എന്നതിന്റെ അപരനാമമാണ്.
-
-- യഥാർത്ഥ കമാൻഡിനായി ഡോക്യുമെന്റേഷൻ കാണുക:
-
-`tldr brew uninstall`

@@ -1,7 +1,0 @@
-# edit
-
-> এই কমান্ডটি `run-mailcap --action=edit` - এর একটি উপনাম।
-
-- মূল কমান্ডের ডকুমেন্টেশন দেখুন:
-
-`tldr run-mailcap`

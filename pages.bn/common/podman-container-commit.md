@@ -1,7 +1,0 @@
-# podman container commit
-
-> এই কমান্ডটি `podman commit` - এর একটি উপনাম।
-
-- মূল কমান্ডের ডকুমেন্টেশন দেখুন:
-
-`tldr podman commit`

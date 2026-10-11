@@ -1,7 +1,0 @@
-# limine-scan
-
-> ഈ കമാൻഡ് `limine-entry-tool --scan` എന്നതിന്റെ അപരനാമമാണ്.
-
-- യഥാർത്ഥ കമാൻഡിനായി ഡോക്യുമെന്റേഷൻ കാണുക:
-
-`tldr limine-entry-tool`

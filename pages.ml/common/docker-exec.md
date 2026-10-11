@@ -1,7 +1,0 @@
-# docker exec
-
-> ഈ കമാൻഡ് `docker container exec` എന്നതിന്റെ അപരനാമമാണ്.
-
-- യഥാർത്ഥ കമാൻഡിനായി ഡോക്യുമെന്റേഷൻ കാണുക:
-
-`tldr docker container exec`

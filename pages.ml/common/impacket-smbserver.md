@@ -1,7 +1,0 @@
-# impacket-smbserver
-
-> ഈ കമാൻഡ് `smbserver.py` എന്നതിന്റെ അപരനാമമാണ്.
-
-- യഥാർത്ഥ കമാൻഡിനായി ഡോക്യുമെന്റേഷൻ കാണുക:
-
-`tldr smbserver.py`

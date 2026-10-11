@@ -1,7 +1,0 @@
-# SaRAcmd OutlookCalendarCheckTask
-
-> यह आदेश `GetHelpCmd.exe -S OutlookCalendarCheckTask` का उपनाम है।
-
-- मूल आदेश के लिए दस्तावेज़ देखें:
-
-`tldr gethelpcmd-outlookcalendarchecktask`

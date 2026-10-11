@@ -1,7 +1,0 @@
-# docker images
-
-> এই কমান্ডটি `docker image ls` - এর একটি উপনাম।
-
-- মূল কমান্ডের ডকুমেন্টেশন দেখুন:
-
-`tldr docker image ls`

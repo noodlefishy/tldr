@@ -1,7 +1,0 @@
-# argospm
-
-> यो आदेश `argos-translate` को उपनाम हो।
-
-- मौलिक आदेशको लागि कागजात हेर्नुहोस्:
-
-`tldr argos-translate`

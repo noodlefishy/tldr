@@ -1,7 +1,0 @@
-# unzstd
-
-> Bu komut `zstd --decompress` için bir takma addır.
-
-- Asıl komutun dokümantasyonunu görüntüleyin:
-
-`tldr zstd`

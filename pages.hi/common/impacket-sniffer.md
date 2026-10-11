@@ -1,7 +1,0 @@
-# impacket-sniffer
-
-> यह आदेश `sniffer.py` का उपनाम है।
-
-- मूल आदेश के लिए दस्तावेज़ देखें:
-
-`tldr sniffer.py`
